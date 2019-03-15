@@ -436,7 +436,6 @@ hr {
 }
 
 .menu {
-  background-color: rgba(0, 0, 0, 0.249);
   flex-direction: column;
   display: none;
   position: none;
@@ -490,7 +489,7 @@ hr {
   width: 100%;
 }
 
-/* Form */
+/* Forms */
 
 form {
   margin: 0 0 2rem 0;
