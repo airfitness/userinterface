@@ -172,6 +172,9 @@ textarea {
 }
 
 .menu-button {
+  background-color: rgba(0, 0, 0, 0.249);
+  border-radius: 9px;
+  box-shadow: 1px 1px 5px rgba(85, 82, 82, 0.454);
   width: 4.5rem;
   height: 2.5rem;
   display: flex;
@@ -179,7 +182,15 @@ textarea {
   left: 20px;
   cursor: pointer;
 }
+
+.menu-button:hover {
+  background-color: rgba(206, 197, 197, 0.262);
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px rgba(216, 209, 209, 0.632);
+}
+
 .menu {
+  background-color: rgba(0, 0, 0, 0.249);
   flex-direction: column;
   display: none;
   position: none;
