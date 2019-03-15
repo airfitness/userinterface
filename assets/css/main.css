@@ -436,7 +436,6 @@ hr {
 }
 
 .menu {
-  background-color: rgba(0, 0, 0, 0.249);
   flex-direction: column;
   display: none;
   position: none;
